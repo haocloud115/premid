@@ -1,0 +1,22 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.7",
+	"author": {
+		"name": "Tanaka Rin",
+		"id": "241278257335500811"
+	},
+	"service": "Wiki Your Auth",
+	"description": {
+		"en": "The best moderation Discord Bot made in Vietnam!.",
+		"vi_VN": "Discord Bot quản trị máy chủ #1 Việt Nam!."
+	},
+	"url": "wiki.yourauth.vn",
+	"version": "1.0.0",
+	"logo": "https://i.imgur.com/2Bb2Ex2.png",
+	"thumbnail": "https://i.imgur.com/02jmeBA.jpg",
+	"color": "#fff",
+	"category": "anime",
+	"tags": [
+		"bot",
+		"vietnam"
+	]
+}
